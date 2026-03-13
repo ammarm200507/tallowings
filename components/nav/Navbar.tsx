@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import Link from 'next/link'
 
 export default function Navbar() {
   return (
@@ -13,12 +12,11 @@ export default function Navbar() {
       {/* Logo */}
       <div className="flex items-center">
         <Image
-          src="/tallowing-logo.png"
+          src="/twyellow.png"
           alt="Tallowing's"
-          width={140}
-          height={42}
+          width={112}
+          height={34}
           priority
-          style={{ filter: 'brightness(0) invert(1)' }}
         />
       </div>
 
@@ -28,19 +26,43 @@ export default function Navbar() {
           href="https://instagram.com/tallowing"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-cream hover:text-gold transition-colors duration-200 font-body text-sm font-600 tracking-widest uppercase"
-          style={{ color: '#F8F5EF', fontFamily: 'var(--font-body)' }}
+          aria-label="Instagram (opens in a new tab)"
+          title="Instagram"
+          className="text-cream hover:text-gold transition-colors duration-200"
+          style={{ color: '#F8F5EF' }}
         >
-          Instagram
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="1.9"
+            className="w-5 h-5"
+            aria-hidden="true"
+          >
+            <rect x="3.5" y="3.5" width="17" height="17" rx="5" />
+            <circle cx="12" cy="12" r="4" />
+            <circle cx="17.3" cy="6.7" r="1" fill="currentColor" stroke="none" />
+          </svg>
         </a>
         <a
           href="https://tiktok.com/@tallowing"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-cream hover:text-gold transition-colors duration-200 font-body text-sm font-600 tracking-widest uppercase"
-          style={{ color: '#F8F5EF', fontFamily: 'var(--font-body)' }}
+          aria-label="TikTok (opens in a new tab)"
+          title="TikTok"
+          className="text-cream hover:text-gold transition-colors duration-200"
+          style={{ color: '#F8F5EF' }}
         >
-          TikTok
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="currentColor"
+            className="w-5 h-5"
+            aria-hidden="true"
+          >
+            <path d="M13.6 3.2c.9 1.3 2.2 2.2 3.8 2.4v2.8a7.7 7.7 0 0 1-3.8-1v5.2a5.5 5.5 0 1 1-4.7-5.4v2.9a2.7 2.7 0 1 0 1.9 2.6V3.2h2.8Z" />
+          </svg>
         </a>
         <a
           href="#join"

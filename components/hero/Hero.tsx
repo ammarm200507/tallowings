@@ -60,7 +60,7 @@ export default function Hero() {
         >
           Wings. Tenders. Biscuit sandwiches. Fried in beef. Nothing else.
           <br />
-          Halal certified. Hand-breaded daily.
+          Hand-breaded daily.
         </p>
 
         {/* Countdown */}
