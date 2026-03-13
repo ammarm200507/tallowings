@@ -11,7 +11,7 @@ const points = [
   },
   {
     number: '03',
-    headline: 'It's the right call.',
+    headline: "It's the right call.",
     body: "Seed oils are everywhere because they're cheap. We use beef tallow because we're not cutting corners on the thing that touches every single item on our menu.",
   },
 ]
