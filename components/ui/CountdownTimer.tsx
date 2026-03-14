@@ -21,9 +21,10 @@ function Pad(n: number) {
 }
 
 export default function CountdownTimer() {
-  const [time, setTime] = useState(getTimeLeft())
+  const [time, setTime] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 })
 
   useEffect(() => {
+    setTime(getTimeLeft())
     const id = setInterval(() => setTime(getTimeLeft()), 1000)
     return () => clearInterval(id)
   }, [])

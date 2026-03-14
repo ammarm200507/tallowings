@@ -4,7 +4,7 @@ const TICKER_TEXT =
 export default function Ticker() {
   return (
     <div
-      className="overflow-hidden py-3 mt-[73px]"
+      className="relative z-40 overflow-hidden py-3 mt-[88px] sm:mt-[73px]"
       style={{ backgroundColor: '#C41E3A' }}
     >
       <div

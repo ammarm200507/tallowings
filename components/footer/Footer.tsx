@@ -10,7 +10,7 @@ export default function Footer() {
         {/* Logo + tagline */}
         <div className="flex flex-col gap-3">
           <Image
-            src="/twyellow.png"
+            src="/twyellow-transparent.png"
             alt="Tallowing's"
             width={96}
             height={29}
