@@ -12,10 +12,10 @@ export default function Navbar() {
       {/* Logo */}
       <div className="flex items-center">
         <Image
-          src="/twyellow-transparent.png"
+          src="/icon-transparent.png"
           alt="Tallowing's"
-          width={112}
-          height={34}
+          width={48}
+          height={48}
           priority
         />
       </div>
