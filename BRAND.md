@@ -186,7 +186,7 @@ Short. Declarative. Like a coach who doesn't explain himself twice. We state thi
 Be specific and factual. The process is the selling point.
 
 **Good:**
-> 48-hour smoked chicken wings. Choice of house sauce or dry rub.
+> 48-hour marinated chicken wings. Choice of house sauce or dry rub.
 
 **Bad:**
 > Our delicious wings are made fresh every day with the finest ingredients.

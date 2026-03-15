@@ -6,7 +6,7 @@ const menuCategories = [
     items: [
       {
         name: 'Traditional Bone-In',
-        desc: '48-hour smoked for deeper flavor and tenderness. Choice of house sauce or dry rub.',
+        desc: '48-hour marinated for deeper flavor and tenderness. Choice of house sauce or dry rub.',
       },
       {
         name: 'Boneless Wings',
