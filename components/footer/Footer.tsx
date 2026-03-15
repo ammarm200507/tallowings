@@ -24,7 +24,7 @@ export default function Footer() {
               lineHeight: 1.5,
             }}
           >
-            Fried in beef. Built different.
+            Chicken fried in beef tallow. Built different.
           </p>
         </div>
 

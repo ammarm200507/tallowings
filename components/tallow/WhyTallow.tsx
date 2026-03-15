@@ -2,12 +2,12 @@ const points = [
   {
     number: '01',
     headline: 'It fries better.',
-    body: 'Beef tallow hits 400°F+ without breaking down. That means a harder crust, cleaner bite, and no greasy aftertaste. Science backs it. Your tongue confirms it.',
+    body: 'Beef tallow — the cooking fat, not the protein — hits 400°F+ without breaking down. That high, stable heat seals the exterior fast and builds a crust that actually holds. Harder bite. No greasy aftertaste.',
   },
   {
     number: '02',
     headline: 'It tastes better.',
-    body: "Beef fat carries flavor differently than vegetable oil. You'll taste the chicken, the sauce, and the seasoning — not the cooking medium. That's how it should work.",
+    body: "Beef tallow is the frying fat. The chicken is still chicken. But when you fry in a fat that doesn't oxidize and break down, you taste the chicken, the marinade, and the sauce — not the oil. That's how it should work.",
   },
   {
     number: '03',
@@ -48,7 +48,7 @@ export default function WhyTallow() {
               lineHeight: 1,
             }}
           >
-            Why Beef Tallow
+            The Tallow Effect
           </h2>
         </div>
 

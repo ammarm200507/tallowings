@@ -42,9 +42,9 @@ export default function Hero() {
             letterSpacing: '0.02em',
           }}
         >
-          100% Beef Tallow.
+          Chicken Fried in
           <br />
-          <span style={{ color: '#C41E3A' }}>0% Apologies.</span>
+          <span style={{ color: '#C41E3A' }}>100% Beef Tallow.</span>
         </h1>
 
         {/* Subheadline */}
@@ -58,9 +58,9 @@ export default function Hero() {
             lineHeight: 1.6,
           }}
         >
-          Wings. Tenders. Biscuit sandwiches. Fried in beef. Nothing else.
+          Chicken wings, tenders & biscuit sandwiches — fried in beef tallow. No seed oils.
           <br />
-          Hand-breaded daily.
+          Hand-breaded daily. Halal certified.
         </p>
 
         {/* Countdown */}
