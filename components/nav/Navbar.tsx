@@ -13,7 +13,7 @@ export default function Navbar() {
       <div className="flex items-center">
         <Image
           src="/icon-transparent.png"
-          alt="Tallowing's"
+          alt="Tallowing"
           width={48}
           height={48}
           priority

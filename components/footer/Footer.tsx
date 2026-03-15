@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="flex flex-col gap-3">
           <Image
             src="/twyellow-transparent.png"
-            alt="Tallowing's"
+            alt="Tallowing"
             width={96}
             height={29}
           />

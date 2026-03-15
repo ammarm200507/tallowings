@@ -1,14 +1,14 @@
-# Tallowing's — Brand Guidelines
+# Tallowing — Brand Guidelines
 
 ---
 
 ## 1. Who We Are
 
-Tallowing's is a wings restaurant in Glenview, IL that fries everything in 100% beef tallow with zero seed oils. We are halal certified, hand-breaded daily, and unapologetic about how we cook.
+Tallowing is a wings restaurant in Glenview, IL that fries everything in 100% beef tallow with zero seed oils. We are halal certified, hand-breaded daily, and unapologetic about how we cook.
 
 We are not a sports bar. We are a food brand with sports-inspired energy. The difference matters — we are defined by what's in the fryer, not what's on the TV.
 
-**One sentence:** Tallowing's is the only wing spot in Glenview that cooks the right way and doesn't explain itself twice.
+**One sentence:** Tallowing is the only wing spot in Glenview that cooks the right way and doesn't explain itself twice.
 
 ---
 
@@ -27,14 +27,14 @@ We are not a sports bar. We are a food brand with sports-inspired energy. The di
 
 ## 3. Brand Personality
 
-**Five words that describe Tallowing's:**
+**Five words that describe Tallowing:**
 - Confident
 - Unapologetic
 - Local
 - Ingredient-first
 - Bold
 
-**Five words that do NOT describe Tallowing's:**
+**Five words that do NOT describe Tallowing:**
 - Trendy
 - Luxurious
 - Preachy

@@ -118,7 +118,7 @@ export default function HomeField() {
           style={{ border: '1px solid rgba(212,164,55,0.3)' }}
         >
           <iframe
-            title="Tallowing's Location"
+            title="Tallowing Location"
             src="https://maps.google.com/maps?q=2528+Waukegan+Rd+Glenview+IL+60025&output=embed"
             width="100%"
             height="100%"
