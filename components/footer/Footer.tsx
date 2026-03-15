@@ -24,7 +24,7 @@ export default function Footer() {
               lineHeight: 1.5,
             }}
           >
-            Chicken fried in beef tallow. Built different.
+            Fried in tallow. No seed oils.
           </p>
         </div>
 

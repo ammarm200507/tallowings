@@ -308,10 +308,10 @@ Sauce names follow the sports theme — they have a name (the brand) and a descr
 ## 14. Taglines (Approved)
 
 **Primary:**
-> Chicken fried in beef tallow. Built different.
+> Fried in tallow. No seed oils.
 
 **Crispiness-first:**
-> Built for crunch. Chicken fried in beef tallow.
+> Built for crunch. Fried in tallow.
 
 **Secondary:**
 > No seed oils. No apologies.
